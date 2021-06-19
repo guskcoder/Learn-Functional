@@ -1,6 +1,6 @@
-## Learn Functional Programming with Elixir
+# Learn Functional Programming with Elixir
 
-# Ebook Study Files
+## Ebook Study Files
 
 <br />
 <img src="img/learn_functional_elixir.jpeg" />
