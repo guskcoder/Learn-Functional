@@ -15,7 +15,8 @@ def enchant_for_sale([item | incoming_items]) do
   new_item = %{
     title: "#{@enchanter_name}'s #{item.title}",
     price: item.price * 3,
-    magic: true
+    magic: true,
+    teste: true
   }
 
   [new_item | enchant_for_sale(incoming_items)]
